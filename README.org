@@ -1,0 +1,6 @@
+* Concage
+
+Concage: A minimalist Go package for effortless concatenation of PNG
+images using ImageMagick's convert command
+
+
