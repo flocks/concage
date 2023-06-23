@@ -3,4 +3,8 @@
 Concage: A minimalist Go package for effortless concatenation of PNG
 images using ImageMagick's convert command
 
+[[https://github.com/flocks/concage/raw/master/demo.gif]]
+
+It's work in progress and mainly exists for my personnal needs
+
 
